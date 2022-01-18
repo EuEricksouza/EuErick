@@ -1,4 +1,9 @@
-# EuErick
+# Olá, Eu sou o Erick!
+
+- 💻 Estudante em Análise e Desenvolvimento de Sistemas.
+- 👔 Buscando experiência profissional nessa área.
+- 📧 Contate-me no email: erick.tricolor9@gmail.com
+- 🚀 Conhecimento destacados em Front-end.
 
 <div align="center">
   <a href="https://github.com/EuErick">
